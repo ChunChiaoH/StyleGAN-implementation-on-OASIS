@@ -7,7 +7,7 @@ And letting the generator learn to cheat the discriminator.
 Eventually, the generator can produce synthetic images similar to the OASIS images.   
     
 Different from the traditional Generative Adversarial Network, styleGAN has many new features.    
-These features include progressively growing, Adaptive Instance Normalization, mapping network, Eualised Learning Rate, Noise Injection and Fade-in.    
+These features include progressively growing, Adaptive Instance Normalization, mapping network, Equalised Learning Rate, Noise Injection and Fade-in.    
   
 ## Model structue
 ### ProGAN strusture
